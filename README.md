@@ -1,1 +1,1 @@
-# Learn_and_create
+# Welcome to our Computing Project Game Development git repository. Our team, Devin, YangQi, Edward and Tanyiyin. You can find the source code of our game in: Assets->Standard Asstes-> Scripts. Enjoy
